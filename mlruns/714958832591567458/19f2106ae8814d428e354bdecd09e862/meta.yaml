@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/19f2106ae8814d428e354bdecd09e862/artifacts
+end_time: 1751608481139
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 19f2106ae8814d428e354bdecd09e862
+run_name: likeable-perch-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608480949
+status: 3
+tags: []
+user_id: HP

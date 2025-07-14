@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/479bba0a337743dc823d821739e90d33/artifacts
+end_time: 1751608767921
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 479bba0a337743dc823d821739e90d33
+run_name: fortunate-sow-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608767834
+status: 3
+tags: []
+user_id: HP

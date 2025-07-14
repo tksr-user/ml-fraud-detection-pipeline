@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/9a8ebb6392064e36bfdc4dc3f8905544/artifacts
+end_time: 1751608846876
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 9a8ebb6392064e36bfdc4dc3f8905544
+run_name: mercurial-ram-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608846750
+status: 3
+tags: []
+user_id: HP

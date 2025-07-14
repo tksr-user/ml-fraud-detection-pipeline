@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/836d56bdf5374e4bb58139eabfd8e570/artifacts
+end_time: 1751609957658
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 836d56bdf5374e4bb58139eabfd8e570
+run_name: painted-hare-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751609957245
+status: 3
+tags: []
+user_id: HP

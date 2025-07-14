@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/7f09ee2de64f4cf58a918bac6b4ed993/artifacts
+end_time: 1751610098807
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 7f09ee2de64f4cf58a918bac6b4ed993
+run_name: sassy-hen-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610098693
+status: 3
+tags: []
+user_id: HP

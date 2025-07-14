@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/9efbac1e62e5461683fb94d9823d1e8b/artifacts
+end_time: 1751608935859
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 9efbac1e62e5461683fb94d9823d1e8b
+run_name: sincere-fox-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608935733
+status: 3
+tags: []
+user_id: HP

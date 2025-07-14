@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/76c3671b2d524864be4acefd9de3e61b/artifacts
+end_time: 1751607954834
+entry_point_name: ''
+experiment_id: '293023702705074199'
+lifecycle_stage: active
+run_id: 76c3671b2d524864be4acefd9de3e61b
+run_name: upset-ram-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751607948364
+status: 3
+tags: []
+user_id: HP

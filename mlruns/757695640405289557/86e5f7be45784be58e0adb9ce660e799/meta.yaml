@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/86e5f7be45784be58e0adb9ce660e799/artifacts
+end_time: 1751862251475
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 86e5f7be45784be58e0adb9ce660e799
+run_name: colorful-mole-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862251364
+status: 3
+tags: []
+user_id: HP

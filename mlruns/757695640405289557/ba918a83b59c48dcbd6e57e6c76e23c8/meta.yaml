@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/ba918a83b59c48dcbd6e57e6c76e23c8/artifacts
+end_time: 1751862689416
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: ba918a83b59c48dcbd6e57e6c76e23c8
+run_name: grandiose-moose-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862689165
+status: 3
+tags: []
+user_id: HP

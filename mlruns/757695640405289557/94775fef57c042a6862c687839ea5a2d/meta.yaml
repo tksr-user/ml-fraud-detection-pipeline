@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/94775fef57c042a6862c687839ea5a2d/artifacts
+end_time: 1751610079696
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 94775fef57c042a6862c687839ea5a2d
+run_name: luminous-rat-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610079481
+status: 3
+tags: []
+user_id: HP

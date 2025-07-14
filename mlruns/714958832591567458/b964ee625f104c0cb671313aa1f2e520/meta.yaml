@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/b964ee625f104c0cb671313aa1f2e520/artifacts
+end_time: 1751608945280
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: b964ee625f104c0cb671313aa1f2e520
+run_name: adaptable-jay-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608945145
+status: 3
+tags: []
+user_id: HP

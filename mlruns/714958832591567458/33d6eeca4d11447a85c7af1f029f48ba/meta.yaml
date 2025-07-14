@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/33d6eeca4d11447a85c7af1f029f48ba/artifacts
+end_time: 1751608695798
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 33d6eeca4d11447a85c7af1f029f48ba
+run_name: smiling-shoat-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608695693
+status: 3
+tags: []
+user_id: HP

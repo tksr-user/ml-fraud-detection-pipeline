@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/8b17a0c1dd3f4181a23ffaf19befbfeb/artifacts
+end_time: 1751607821871
+entry_point_name: ''
+experiment_id: '293023702705074199'
+lifecycle_stage: active
+run_id: 8b17a0c1dd3f4181a23ffaf19befbfeb
+run_name: trusting-wolf-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751607812425
+status: 3
+tags: []
+user_id: HP

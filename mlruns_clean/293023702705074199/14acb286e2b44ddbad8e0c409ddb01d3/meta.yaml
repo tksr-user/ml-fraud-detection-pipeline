@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/14acb286e2b44ddbad8e0c409ddb01d3/artifacts
+end_time: 1751607859364
+entry_point_name: ''
+experiment_id: '293023702705074199'
+lifecycle_stage: active
+run_id: 14acb286e2b44ddbad8e0c409ddb01d3
+run_name: efficient-ray-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751607834841
+status: 3
+tags: []
+user_id: HP

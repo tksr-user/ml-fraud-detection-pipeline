@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/00448149eaec48e29a6d40a047319d91/artifacts
+end_time: 1751607948266
+entry_point_name: ''
+experiment_id: '293023702705074199'
+lifecycle_stage: active
+run_id: 00448149eaec48e29a6d40a047319d91
+run_name: agreeable-fawn-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751607928729
+status: 3
+tags: []
+user_id: HP

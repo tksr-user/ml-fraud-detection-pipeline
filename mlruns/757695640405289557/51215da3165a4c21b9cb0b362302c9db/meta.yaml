@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/51215da3165a4c21b9cb0b362302c9db/artifacts
+end_time: 1751862746354
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 51215da3165a4c21b9cb0b362302c9db
+run_name: trusting-panda-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862746167
+status: 3
+tags: []
+user_id: HP

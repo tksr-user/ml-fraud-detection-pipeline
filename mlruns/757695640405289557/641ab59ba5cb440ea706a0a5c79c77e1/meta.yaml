@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/641ab59ba5cb440ea706a0a5c79c77e1/artifacts
+end_time: 1751610352877
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 641ab59ba5cb440ea706a0a5c79c77e1
+run_name: luminous-crab-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610352767
+status: 3
+tags: []
+user_id: HP

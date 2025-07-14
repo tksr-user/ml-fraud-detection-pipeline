@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/732c2f49b3b94701ac3c1848e8b2d60f/artifacts
+end_time: 1751862401250
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 732c2f49b3b94701ac3c1848e8b2d60f
+run_name: persistent-sow-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862401155
+status: 3
+tags: []
+user_id: HP

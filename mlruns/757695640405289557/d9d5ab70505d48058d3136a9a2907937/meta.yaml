@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/d9d5ab70505d48058d3136a9a2907937/artifacts
+end_time: 1751862308638
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: d9d5ab70505d48058d3136a9a2907937
+run_name: fearless-shrew-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862308511
+status: 3
+tags: []
+user_id: HP

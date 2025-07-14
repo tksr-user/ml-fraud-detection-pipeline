@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/958880685528322423
+creation_time: 1751607754756
+experiment_id: '958880685528322423'
+last_update_time: 1751607754756
+lifecycle_stage: active
+name: RandomForest_Optuna_D2

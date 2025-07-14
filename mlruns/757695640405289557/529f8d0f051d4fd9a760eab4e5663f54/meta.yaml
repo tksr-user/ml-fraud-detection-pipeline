@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/529f8d0f051d4fd9a760eab4e5663f54/artifacts
+end_time: 1751862708667
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 529f8d0f051d4fd9a760eab4e5663f54
+run_name: suave-gnu-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862708495
+status: 3
+tags: []
+user_id: HP
