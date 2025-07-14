@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/43ee910214524580afb8f05cad63c6a3/artifacts
+end_time: 1751608642904
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 43ee910214524580afb8f05cad63c6a3
+run_name: luminous-skink-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608642822
+status: 3
+tags: []
+user_id: HP

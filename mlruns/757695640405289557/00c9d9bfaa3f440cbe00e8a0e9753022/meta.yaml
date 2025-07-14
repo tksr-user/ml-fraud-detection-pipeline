@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/00c9d9bfaa3f440cbe00e8a0e9753022/artifacts
+end_time: 1751610015668
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 00c9d9bfaa3f440cbe00e8a0e9753022
+run_name: awesome-sloth-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610015567
+status: 3
+tags: []
+user_id: HP

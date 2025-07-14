@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/a2e94314a7a8476aac9c87cb4bd55831/artifacts
+end_time: 1751608547256
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: a2e94314a7a8476aac9c87cb4bd55831
+run_name: fortunate-goat-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608547158
+status: 3
+tags: []
+user_id: HP

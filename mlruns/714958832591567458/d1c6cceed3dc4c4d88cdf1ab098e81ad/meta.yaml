@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/d1c6cceed3dc4c4d88cdf1ab098e81ad/artifacts
+end_time: 1751608530075
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: d1c6cceed3dc4c4d88cdf1ab098e81ad
+run_name: ambitious-ape-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608529941
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/models/m-98bca0d1634247cea406afb1c81b7b09/artifacts
+creation_timestamp: 1751607986652
+experiment_id: '293023702705074199'
+last_updated_timestamp: 1751607994367
+model_id: m-98bca0d1634247cea406afb1c81b7b09
+model_type: null
+name: model
+source_run_id: d2f38a0e58454f40b2cbb80a81bd0407
+status: 2
+status_message: null

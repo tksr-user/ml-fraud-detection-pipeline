@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/177a7faf9cad40dbb32cbaa426f6ff4a/artifacts
+end_time: 1751610278249
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 177a7faf9cad40dbb32cbaa426f6ff4a
+run_name: marvelous-doe-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610278154
+status: 3
+tags: []
+user_id: HP

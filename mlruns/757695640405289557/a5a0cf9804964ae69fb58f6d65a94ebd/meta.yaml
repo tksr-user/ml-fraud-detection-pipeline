@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/a5a0cf9804964ae69fb58f6d65a94ebd/artifacts
+end_time: 1751610374492
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: a5a0cf9804964ae69fb58f6d65a94ebd
+run_name: bustling-finch-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610374413
+status: 3
+tags: []
+user_id: HP

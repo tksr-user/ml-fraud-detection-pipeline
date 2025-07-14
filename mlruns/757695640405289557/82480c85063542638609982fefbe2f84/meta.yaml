@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/82480c85063542638609982fefbe2f84/artifacts
+end_time: 1751862213604
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 82480c85063542638609982fefbe2f84
+run_name: beautiful-wolf-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862213499
+status: 3
+tags: []
+user_id: HP

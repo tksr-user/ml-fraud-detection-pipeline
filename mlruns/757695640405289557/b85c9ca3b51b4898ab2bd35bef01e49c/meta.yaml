@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/b85c9ca3b51b4898ab2bd35bef01e49c/artifacts
+end_time: 1751610147418
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: b85c9ca3b51b4898ab2bd35bef01e49c
+run_name: respected-sponge-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610147332
+status: 3
+tags: []
+user_id: HP

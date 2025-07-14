@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/c83e05740adf4737ba6e05eba70f4954/artifacts
+end_time: 1751610048870
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: c83e05740adf4737ba6e05eba70f4954
+run_name: languid-cod-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610048592
+status: 3
+tags: []
+user_id: HP

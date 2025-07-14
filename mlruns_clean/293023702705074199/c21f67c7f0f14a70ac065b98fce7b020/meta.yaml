@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/c21f67c7f0f14a70ac065b98fce7b020/artifacts
+end_time: 1751607928601
+entry_point_name: ''
+experiment_id: '293023702705074199'
+lifecycle_stage: active
+run_id: c21f67c7f0f14a70ac065b98fce7b020
+run_name: burly-seal-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751607905083
+status: 3
+tags: []
+user_id: HP

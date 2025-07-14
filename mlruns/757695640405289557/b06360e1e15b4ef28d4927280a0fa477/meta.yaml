@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/b06360e1e15b4ef28d4927280a0fa477/artifacts
+end_time: 1751862427815
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: b06360e1e15b4ef28d4927280a0fa477
+run_name: amusing-moth-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862427688
+status: 3
+tags: []
+user_id: HP

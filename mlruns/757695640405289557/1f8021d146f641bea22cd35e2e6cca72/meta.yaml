@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/1f8021d146f641bea22cd35e2e6cca72/artifacts
+end_time: 1751862487971
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 1f8021d146f641bea22cd35e2e6cca72
+run_name: resilient-perch-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862487848
+status: 3
+tags: []
+user_id: HP

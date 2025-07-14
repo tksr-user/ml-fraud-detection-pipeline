@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/bcace53fcf574df281c365d0e3ea3077/artifacts
+end_time: 1751862235620
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: bcace53fcf574df281c365d0e3ea3077
+run_name: overjoyed-shrimp-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862235555
+status: 3
+tags: []
+user_id: HP

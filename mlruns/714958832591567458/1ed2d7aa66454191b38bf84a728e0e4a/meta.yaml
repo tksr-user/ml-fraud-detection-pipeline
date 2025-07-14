@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/1ed2d7aa66454191b38bf84a728e0e4a/artifacts
+end_time: 1751608812799
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 1ed2d7aa66454191b38bf84a728e0e4a
+run_name: burly-mare-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608812680
+status: 3
+tags: []
+user_id: HP

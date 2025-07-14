@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/2c88ef77771541aaa9ae8b95590dad8f/artifacts
+end_time: 1751608734824
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 2c88ef77771541aaa9ae8b95590dad8f
+run_name: orderly-mare-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608734745
+status: 3
+tags: []
+user_id: HP

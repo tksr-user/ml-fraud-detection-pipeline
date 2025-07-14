@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/56c9d060fe5642b8a491b960aa2d10d3/artifacts
+end_time: 1751862524688
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 56c9d060fe5642b8a491b960aa2d10d3
+run_name: orderly-shrew-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862524537
+status: 3
+tags: []
+user_id: HP

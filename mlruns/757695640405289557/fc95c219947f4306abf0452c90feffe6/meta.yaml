@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/fc95c219947f4306abf0452c90feffe6/artifacts
+end_time: 1751610326742
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: fc95c219947f4306abf0452c90feffe6
+run_name: handsome-shark-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610326675
+status: 3
+tags: []
+user_id: HP

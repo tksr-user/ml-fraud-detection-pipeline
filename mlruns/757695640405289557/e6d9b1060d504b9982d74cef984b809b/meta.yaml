@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/e6d9b1060d504b9982d74cef984b809b/artifacts
+end_time: 1751862536405
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: e6d9b1060d504b9982d74cef984b809b
+run_name: bald-skink-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862536262
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/c781be3241894ebeaedd1e1b3f11b93f/artifacts
+end_time: 1751862616535
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: c781be3241894ebeaedd1e1b3f11b93f
+run_name: brawny-panda-350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862616406
+status: 3
+tags: []
+user_id: HP

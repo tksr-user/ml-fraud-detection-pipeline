@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/31bfc7d810504548ab3b32a56bb53923/artifacts
+end_time: 1751610524132
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 31bfc7d810504548ab3b32a56bb53923
+run_name: flawless-skunk-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610524031
+status: 3
+tags: []
+user_id: HP

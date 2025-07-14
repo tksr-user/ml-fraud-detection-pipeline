@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/3aa251afbcd4429dbdc55a925fd3eb9e/artifacts
+end_time: 1751610175884
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 3aa251afbcd4429dbdc55a925fd3eb9e
+run_name: amusing-asp-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610175804
+status: 3
+tags: []
+user_id: HP

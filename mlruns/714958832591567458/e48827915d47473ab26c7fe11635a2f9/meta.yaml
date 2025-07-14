@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/e48827915d47473ab26c7fe11635a2f9/artifacts
+end_time: 1751608821948
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: e48827915d47473ab26c7fe11635a2f9
+run_name: gifted-toad-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608821842
+status: 3
+tags: []
+user_id: HP

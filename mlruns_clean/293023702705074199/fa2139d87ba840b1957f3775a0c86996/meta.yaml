@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns_clean/293023702705074199/fa2139d87ba840b1957f3775a0c86996/artifacts
+end_time: 1751607834701
+entry_point_name: ''
+experiment_id: '293023702705074199'
+lifecycle_stage: active
+run_id: fa2139d87ba840b1957f3775a0c86996
+run_name: unruly-worm-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751607821966
+status: 3
+tags: []
+user_id: HP

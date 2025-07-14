@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/bce57fb37fe94981946278c8e2d667d9/artifacts
+end_time: 1751609970920
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: bce57fb37fe94981946278c8e2d667d9
+run_name: industrious-foal-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751609970666
+status: 3
+tags: []
+user_id: HP

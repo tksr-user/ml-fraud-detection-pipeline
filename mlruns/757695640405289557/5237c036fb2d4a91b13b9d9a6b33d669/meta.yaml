@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/5237c036fb2d4a91b13b9d9a6b33d669/artifacts
+end_time: 1751610266576
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 5237c036fb2d4a91b13b9d9a6b33d669
+run_name: gregarious-gnat-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610266464
+status: 3
+tags: []
+user_id: HP

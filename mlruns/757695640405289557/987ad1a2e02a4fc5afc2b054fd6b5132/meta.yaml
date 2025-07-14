@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/987ad1a2e02a4fc5afc2b054fd6b5132/artifacts
+end_time: 1751862646860
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 987ad1a2e02a4fc5afc2b054fd6b5132
+run_name: worried-ant-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751862646749
+status: 3
+tags: []
+user_id: HP

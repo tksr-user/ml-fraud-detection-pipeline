@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/714958832591567458/5849cc37da644995a267a35741c6c637/artifacts
+end_time: 1751608568167
+entry_point_name: ''
+experiment_id: '714958832591567458'
+lifecycle_stage: active
+run_id: 5849cc37da644995a267a35741c6c637
+run_name: enthused-gnat-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751608568089
+status: 3
+tags: []
+user_id: HP

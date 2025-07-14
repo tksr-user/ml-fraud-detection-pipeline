@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/ml_pipeline_project/mlruns/757695640405289557/2e72517f16344ae2a6325249c826082a/artifacts
+end_time: 1751610402569
+entry_point_name: ''
+experiment_id: '757695640405289557'
+lifecycle_stage: active
+run_id: 2e72517f16344ae2a6325249c826082a
+run_name: gregarious-fish-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751610402457
+status: 3
+tags: []
+user_id: HP
